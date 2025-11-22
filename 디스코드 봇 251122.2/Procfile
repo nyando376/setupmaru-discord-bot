@@ -1,0 +1,1 @@
+worker: cd "디스코드 봇" && python bot.py

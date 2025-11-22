@@ -75,5 +75,5 @@ async def on_member_join(member: discord.Member):
 
 if __name__ == "__main__":
     if not TOKEN:
-        raise RuntimeError("DISCORD_TOKEN is not set")
+        raise RuntimeError("MTQ0MTYyMTU3MjU0ODAzODY1Ng.GMzdjh.ti3xytTCXZGx9F-z1gtYQFaN3S_gQrClXkjLOU")
     bot.run(TOKEN)
